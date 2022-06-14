@@ -1,4 +1,4 @@
-import { IndiretaFilho } from './IndiretaFilho'
+import { IndiretaFilho } from '../indireta-filho/IndiretaFilho'
 import { useState } from 'react'
 
 export const IndiretaPai = () => {

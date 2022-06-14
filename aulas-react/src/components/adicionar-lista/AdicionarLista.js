@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ListaCompras } from './ListaCompras'
+import { ListaCompras } from '../lista-compras/ListaCompras'
 
 export const AdicionarLista = () => {
    const [lista, setLista] = useState([])

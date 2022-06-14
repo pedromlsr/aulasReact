@@ -1,4 +1,4 @@
-import { ComponenteFilho } from './ComponenteFilho'
+import { ComponenteFilho } from '../componente-filho/ComponenteFilho'
 
 export const ComponentePai = () => {
    return (
